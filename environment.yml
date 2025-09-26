@@ -1,0 +1,11 @@
+name: my_ai_chatbot
+dependencies:
+  - python=3.10
+  - pip
+  - pip:
+      - flask
+      - requests
+      - numpy
+      - together
+      - transformers
+      - torch
